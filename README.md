@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvtiwari14/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvtiwari14/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvtiwari14/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvtiwari14/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
