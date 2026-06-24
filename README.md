@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
