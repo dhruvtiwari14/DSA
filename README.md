@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dhruvtiwari14/DSA/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhruvtiwari14/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/dhruvtiwari14/DSA/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/dhruvtiwari14/DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
