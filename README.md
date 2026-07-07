@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dhruvtiwari14/DSA/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/dhruvtiwari14/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,8 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dhruvtiwari14/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/dhruvtiwari14/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dhruvtiwari14/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dhruvtiwari14/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
