@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/dhruvtiwari14/DSA/tree/master/0016-3sum-closest) |
+| [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -116,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvtiwari14/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvtiwari14/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
