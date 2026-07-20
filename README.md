@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/dhruvtiwari14/DSA/tree/master/0016-3sum-closest) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1260-shift-2d-grid](https://github.com/dhruvtiwari14/DSA/tree/master/1260-shift-2d-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruvtiwari14/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/dhruvtiwari14/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/dhruvtiwari14/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
