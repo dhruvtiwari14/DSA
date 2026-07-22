@@ -20,11 +20,13 @@ class Solution {
     }
     TreeNode help(int[] preorder, int[] inorder,int idx,int left,int right){
         if(left>right) return null;
+
         TreeNode root = new TreeNode(preorder[preidx++]);
-        int inIdx=search(inorder,preorder[idx],left,right);//inorder index
-        idx++;
+        int inIdx=search(inorder,root.val,left,right);//inorder index
+        
         root.left=help(preorder,inorder,preidx,left,inIdx-1);
         root.right=help(preorder,inorder,preidx,inIdx+1,right);
+
         return root;
     }
     int search(int inorder[],int val,int left,int right){
