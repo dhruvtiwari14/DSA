@@ -28,7 +28,7 @@ class Solution {
         int inIdx=search(inorder,root.val,left,right);
         //postidx-=1;
 
-        root.right=help(inorder,postorder,inIdx+1,right);
+        root.right=help(inorder,postorder,inIdx+1,right);//in this compulsory right first
         root.left=help(inorder,postorder,left,inIdx-1);
         return root;
     }
