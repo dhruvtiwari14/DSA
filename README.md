@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvtiwari14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dhruvtiwari14/DSA/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/dhruvtiwari14/DSA/tree/master/0257-binary-tree-paths) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhruvtiwari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dhruvtiwari14/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/dhruvtiwari14/DSA/tree/master/0509-fibonacci-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhruvtiwari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruvtiwari14/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dhruvtiwari14/DSA/tree/master/0257-binary-tree-paths) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhruvtiwari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
