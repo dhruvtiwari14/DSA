@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/dhruvtiwari14/DSA/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvtiwari14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/dhruvtiwari14/DSA/tree/master/0016-3sum-closest) |
 | [0059-spiral-matrix-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhruvtiwari14/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvtiwari14/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
