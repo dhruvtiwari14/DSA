@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dhruvtiwari14/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvtiwari14/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0877-stone-game](https://github.com/dhruvtiwari14/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/dhruvtiwari14/DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtiwari14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhruvtiwari14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dhruvtiwari14/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/dhruvtiwari14/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/dhruvtiwari14/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhruvtiwari14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhruvtiwari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhruvtiwari14/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dhruvtiwari14/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/dhruvtiwari14/DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhruvtiwari14/DSA/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dhruvtiwari14/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
