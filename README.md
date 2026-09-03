@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/dhruvtiwari14/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruvtiwari14/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/dhruvtiwari14/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvtiwari14/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0877-stone-game](https://github.com/dhruvtiwari14/DSA/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruvtiwari14/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/dhruvtiwari14/DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtiwari14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/dhruvtiwari14/DSA/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvtiwari14/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0922-sort-array-by-parity-ii](https://github.com/dhruvtiwari14/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhruvtiwari14/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhruvtiwari14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhruvtiwari14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
