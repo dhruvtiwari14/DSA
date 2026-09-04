@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dhruvtiwari14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvtiwari14/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/dhruvtiwari14/DSA/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/dhruvtiwari14/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/dhruvtiwari14/DSA/tree/master/3917-count-indices-with-opposite-parity) |
 ## Sorting
 |  |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvtiwari14/DSA/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/dhruvtiwari14/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
