@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/dhruvtiwari14/DSA/tree/master/3903-smallest-stable-index-i) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dhruvtiwari14/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
